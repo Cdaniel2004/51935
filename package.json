@@ -1,0 +1,20 @@
+{
+  "name": "analizador-antlr4",
+  "version": "1.0.0",
+  "description": "Analizador basado en ANTLR4 para lenguaje de metadatos",
+  "main": "index.js",
+  "scripts": {
+    "build": "java -jar antlr-4.13.1-complete.jar -Dlanguage=JavaScript MetadataGrammar.g4 -o parser",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antlr4": "^4.13.1"
+  },
+  "devDependencies": {
+    "antlr4-c3": "^2.2.1"
+  },
+  "type": "module"
+}
