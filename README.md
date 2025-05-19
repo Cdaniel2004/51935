@@ -46,8 +46,9 @@ Ejecución
 
 2. Ejecuta el analizador:
    node index.js input_correcto_1.txt //Desde la terminal
+   //probar con los 4 ejemplos dados
 
-3. Salida esperada:
+4. Salida esperada:
 
    - Si el archivo es válido, se mostrará:
      - Mensaje de éxito
