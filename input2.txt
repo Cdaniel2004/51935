@@ -1,8 +1,0 @@
-nombre: "informe_final.docx";
-tipo: "docx";
-tamaño: 204800;
-creado: 2024-12-15 09:45;
-modificado: 2025-01-10 16:20;
-autor: "Equipo de Proyectos";
-descripcion: "Informe final del proyecto de desarrollo de software.";
-etiquetas: ["informe","proyecto","desarrollo","software"];
