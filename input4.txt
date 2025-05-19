@@ -1,8 +1,0 @@
-nombre: "reporte.xlsx";
-tipo: "xlsx";
-tamaño: 51200;
-creado: 15/12/2024 09:45;      // Formato de fecha incorrecto
-modificado: 2025-01-10 16:20;
-autor: "Analista";
-descripcion: "Reporte mensual";
-etiquetas: ["reporte" "mensual" "datos"]; // Faltan comas entre los textos
