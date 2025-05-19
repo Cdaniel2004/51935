@@ -42,10 +42,10 @@ etiquetas: ["documento","prueba","gramática","metadatos"];
 
 Ejecución
 
-1. Coloca tu archivo de entrada en la raíz del proyecto (por ejemplo, `Ejemplo1.txt`).
+1. Coloca tu archivo de entrada en la raíz del proyecto (por ejemplo, `input_correcto_1.txt`).
 
 2. Ejecuta el analizador:
-   node index.js Ejemplo1.txt //Desde la terminal
+   node index.js input_correcto_1.txt //Desde la terminal
 
 3. Salida esperada:
 
